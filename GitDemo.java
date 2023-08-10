@@ -2,6 +2,8 @@ class GitDemo
 {
 	public static void main(String[] args) 
 	{
-		System.out.println("NEVER GIVE-UP");
+		for(int i=0;i<=10;i++){
+			System.out.println("Welcome to Pentagon Space");
+		}
 	}
 }
